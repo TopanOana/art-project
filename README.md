@@ -22,3 +22,10 @@ A pace calculator with a UI that allows me to adjust values and see the result u
 ## Stamp 
 
 A bad way of generating the Pacer Icon.
+
+
+## Sumar
+
+A Bucharest-metro-themed audio guide, matching the "SUMAR" Figma design. Title screen, a
+metro-map player screen, and a credits screen — scaffolded so far for Android and iOS; the real
+audio playback and the map artwork itself still need to land.
